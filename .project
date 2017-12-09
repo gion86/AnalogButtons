@@ -3,6 +3,7 @@
 	<name>AnalogButtons</name>
 	<comment></comment>
 	<projects>
+		<project>ATMegaCore</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
